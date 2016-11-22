@@ -13,7 +13,7 @@ if(isset($_POST['submit']))
     // variables for input data
 
     // sql query for inserting data into database
-    $sql_query = "INSERT INTO users(name,email,gender,website,comment) VALUES ('$name','$email','$gender','$website','$comment')";
+    $sql_query = "INSERT INTO user_info(name,email,gender,website,comment) VALUES ('$name','$email','$gender','$website','$comment')";
     mysqli_query($con,$sql_query);
     // sql query for inserting data into database
 }
@@ -364,12 +364,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   }
 }
 
-function test_input($data) {
-  $data = trim($data);
-  $data = stripslashes($data);
-  $data = htmlspecialchars($data);
-  return $data;
-}
 ?>
 
 <h1>Enter your information here! :)</h1>
