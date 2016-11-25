@@ -122,7 +122,7 @@ table, th, td{
 
 <?php
 // define variables and set to empty values
-$nameErr = $emailErr = $genderErr = $websiteErr = "";
+$nameErr = $nName = $emailErr = $genderErr = $websiteErr = "";
 $name = $email = $gender = $comment = $website = "";
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
