@@ -4,7 +4,7 @@ if(isset($_POST['submit']))
 {
     // variables for input data
     $name = $_POST['name'];
-    //$nName = $_POST['nName'];
+    $nName = $_POST['nName'];
     $email = $_POST['email'];
     $website = $_POST['website'];
     $gender = $_POST['gender'];
@@ -13,7 +13,7 @@ if(isset($_POST['submit']))
     // variables for input data
 
     // sql query for inserting data into database
-    $sql_query = "INSERT INTO user_info(name,email,gender,website,comment) VALUES ('$name','$email','$gender','$website','$comment')";
+    $sql_query = "INSERT INTO user_info(name,nickname,email,gender,website,comment) VALUES ('$name','$nName','$email','$gender','$website','$comment')";
     mysqli_query($con,$sql_query);
     // sql query for inserting data into database
 }
@@ -136,6 +136,15 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
   }
   
+  if (empty($_POST["nName"])) {
+				$nNameErr = "NICKNAME IS REQUIRED ";
+			} else {
+				$nName = test_input($_POST["nName"]);
+				if (!preg_match("/^[a-zA-Z ]*$/",$nName)) {
+				$nNameErr = "ONLY LETTERS ARE ALLOWED DUDE"; 
+				}
+			}
+			
   if (empty($_POST["email"])) {
     $emailErr = "Email is required";
   } else {
@@ -182,6 +191,9 @@ function test_input($data) {
 <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">  
   Name: <input type="text" name="name" value="<?php echo $name;?>">
   <span class="error">* <?php echo $nameErr;?></span>
+  <br><br>
+  Nickname:<input type="text" name="nName" value="<?php echo $nName;?>">
+  <span class="error"> <?php echo $nNameErr;?></span>
   <br><br>
   E-mail: <input type="text" name="email" value="<?php echo $email;?>">
   <span class="error">* <?php echo $emailErr;?></span>
