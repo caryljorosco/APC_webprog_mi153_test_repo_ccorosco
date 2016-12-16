@@ -32,8 +32,9 @@
 		<center>
 			<table id="PI">
 			<tr>
-				<th id="PI">Hobbies: </th>
-				<th id="PI">Reading books and listening to music (+eating)</th>
+				
+				<td id="PI">Hobbies: </td>
+				<td id="PI">Reading books and listening to music (+eating)</td>
 			</tr>
 			<tr>
 				<td id="PI">Interests: </td>
