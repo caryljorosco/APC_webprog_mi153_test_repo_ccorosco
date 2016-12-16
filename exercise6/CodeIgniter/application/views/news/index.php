@@ -1,7 +1,7 @@
 <html>
 <title>Web Programming_Exercise6</title>
 	<head>
-		<h1><i><center><font color = #1a75ff>Le Personal Webpage</font></center></i></h1>
+		<h1><i><center><font color = #1a75ff>My Home Page</font></center></i></h1>
 	<style>
 		#PI{
 			border: 1px solid blue;
@@ -35,7 +35,7 @@
 			</tr>
 			<tr>
 				<td id="PI">Name</td>
-				<td id="PI">Gabriel Angelo Agito Ngceen</td>
+				<td id="PI">Caryl </td>
 			</tr>
 			<tr>
 				<td id="PI">Nickname:</td>
