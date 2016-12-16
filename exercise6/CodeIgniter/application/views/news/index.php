@@ -42,16 +42,9 @@
 			
 			<tr>
 				<td id="PI">Birthdate:</td>
-				<td id="PI">January 1, 2000</td>
+				<td id="PI">February 15, 1999</td>
 			</tr>
-			<tr>
-				<td id="PI">Age:</td>
-				<td id="PI">16</td>
-			</tr>
-			<tr>
-				<td id="PI">Course:</td>
-				<td id="PI">BS Information Technology, Specializing in mobile and internet technology</td>
-			</tr>
+			
 			</table>
 
 			<button type="button" onclick="document.getElementById('table').style.fontSize='35px'">
@@ -59,7 +52,7 @@
 			</button>
 
 			<p>
-			<br>Favorite websites as pastime:
+			<br>Favorite websites:
 			<br><a href= "https://www.youtube.com"><img border="0" alt="Youtube" src="<?php echo base_url('Images/youtube.jpg');?>" width=100 height=100></a>
 			<a href= "https://www.facebook.com"><img border="0" alt="Facebook" src="<?php echo base_url('Images/facebook.jpg');?>" width=100 height=100></a>
 			<a href= "https://www.twitter.com"><img border="0" alt="Twitter" src="<?php echo base_url('Images/twitter.jpg');?>" width=100 height=100></a>
