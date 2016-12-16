@@ -12,7 +12,7 @@
 		}
 
 		body{
-			background-image: url(<?=base_url()?>Images/background.jpg);
+			background-image: url(<?=base_url()?>webimgs/background.jpg);
 			color: #66a3ff;
 		}
 
