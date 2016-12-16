@@ -3,6 +3,7 @@
 	<head>
 		<h1><i><center><font color = #1a75ff>My Home Page</font></center></i></h1>
 		<p> Hi, my name is Caryl Johanan C. Orosco. I usually let people I know call me by my first name, Caryl. </p>
+		
 	<style>
 		#PI{
 			border: 1px solid blue;
@@ -31,8 +32,8 @@
 		<center>
 			<table id="PI">
 			<tr>
-				<th id="PI">Field</th>
-				<th id="PI">Information</th>
+				<th id="PI">Hobbies: </th>
+				<th id="PI">Reading books and listening to music (+eating)</th>
 			</tr>
 			<tr>
 				<td id="PI">Name</td>
