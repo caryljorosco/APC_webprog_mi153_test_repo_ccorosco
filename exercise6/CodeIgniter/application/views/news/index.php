@@ -2,6 +2,7 @@
 <title>Web Programming_Exercise6</title>
 	<head>
 		<h1><i><center><font color = #1a75ff>My Home Page</font></center></i></h1>
+		<p> Hi, my name is Caryl Johanan C. Orosco. I usually let people I know call me by my first name, Caryl. </p>
 	<style>
 		#PI{
 			border: 1px solid blue;
