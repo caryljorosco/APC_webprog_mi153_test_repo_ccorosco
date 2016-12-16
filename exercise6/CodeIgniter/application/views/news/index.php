@@ -36,13 +36,10 @@
 				<th id="PI">Reading books and listening to music (+eating)</th>
 			</tr>
 			<tr>
-				<td id="PI">Name</td>
-				<td id="PI">Caryl </td>
+				<td id="PI">Interests: </td>
+				<td id="PI">I like reading about conspiracy theories and unsolved murder cases. </td>
 			</tr>
-			<tr>
-				<td id="PI">Nickname:</td>
-				<td id="PI">Gabby/Gab</td>
-			</tr>
+			
 			<tr>
 				<td id="PI">Birthdate:</td>
 				<td id="PI">January 1, 2000</td>
