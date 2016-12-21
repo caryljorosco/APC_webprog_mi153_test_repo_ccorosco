@@ -93,7 +93,7 @@
 				ANSWER
 			</p>
 
-			<button type="button" onclick="document.getElementById('q3').innerHTML = 'Started on September 2016'">Click to see answer</button>
+			<button type="button" onclick="document.getElementById('demo3').innerHTML = 'Started on September 2016'">Click to see answer</button>
 
 			<p>
 				4. What else do you do in your free time?
