@@ -76,7 +76,7 @@
 			<button type="button" onclick="document.getElementById('demo1').innerHTML = 'Caryl means strong and Johanan means God-given.'">Cool question!</button>
 
 			<p>
-				2. My favorite subject:
+				2. What is your favorite conspiracy theory?
 			</p>
 
 			<p id="demo2">
