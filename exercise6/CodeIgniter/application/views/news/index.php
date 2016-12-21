@@ -6,14 +6,14 @@
 		
 	<style>
 		#PI{
-			border: 1px solid blue;
+			border: 1px solid white;
 			color: #66a3ff;
 			width: 50%;
 		}
 
 		body{
 			background-image: url(<?=base_url()?>webimgs/background.jpg);
-			color: #66a3ff;
+			color: #89f1fa;
 		}
 
 		#q1, #q2, #q3, #q4, #q5{
