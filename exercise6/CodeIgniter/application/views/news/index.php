@@ -9,6 +9,8 @@
 			border: 1px solid white;
 			color: #66a3ff;
 			width: 50%;
+			font-color: white;
+			font-size: 25%
 		}
 
 		body{
