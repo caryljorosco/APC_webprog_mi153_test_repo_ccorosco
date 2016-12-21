@@ -62,15 +62,6 @@
 			<a href= "https://www.tumblr.com"><img border="0" alt="Tumblr" src="<?php echo base_url('Images/tumblr.jpg');?>" width=100 height=100></a>
 			</p>
 
-			<p>
-			<br>Favorite games:
-			<br><a href= "https://lol.garena.ph/"><img border="0" alt="League of Legends" src="<?php echo base_url('Images/lol.jpg');?>" width=100 height=100></a>
-			<a href= "http://store.steampowered.com/app/316010/"><img border="0" alt="Magic:The Gathering" src="<?php echo base_url('Images/MTG.jpg');?>" 
-
-width=100 height=100></a>
-			<a href= "https://minecraft.net/en/"><img border="0" alt="Minecraft" src="<?php echo base_url('Images/minecraft.jpg');?>" width=100 height=100></a>
-			</p>
-
 			<h2> Trivia! </h2>
 
 			<p>
