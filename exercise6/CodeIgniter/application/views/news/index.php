@@ -103,7 +103,7 @@
 				ANSWER
 			</p>
 
-			<button type="button" onclick="document.getElementById('demo4').innerHTML = 'Play on my PS3, or play basketball with friends.'">Click to see answer</button>
+			<button type="button" onclick="document.getElementById('demo4').innerHTML = ''My favorite is the case of JonBenet Ramsey (which had a 4-hour special at CBS and IT WAS AMAZING!)'">Click to see answer</button>
 
 			<p>
 				5. Where do you go to buy magic cards?
