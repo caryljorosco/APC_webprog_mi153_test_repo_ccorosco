@@ -73,7 +73,7 @@
 				ANSWER
 			</p>
 
-			<button type="button" onclick="document.getElementById('demo1').innerHTML = 'Caryl means strong and Johanan means God-given.'">Click to see answer</button>
+			<button type="button" onclick="document.getElementById('demo1').innerHTML = 'Caryl means strong and Johanan means God-given.'">Cool question!</button>
 
 			<p>
 				2. My favorite subject:
