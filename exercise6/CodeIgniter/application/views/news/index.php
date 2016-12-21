@@ -73,7 +73,7 @@
 				ANSWER
 			</p>
 
-			<button type="button" onclick="document.getElementById('demo1').innerHTML = 'NZAAXD or VoidDoubleA'">Click to see answer</button>
+			<button type="button" onclick="document.getElementById('demo1').innerHTML = 'Caryl means strong and Johanan means God-given.'">Click to see answer</button>
 
 			<p>
 				2. My favorite subject:
@@ -113,7 +113,7 @@
 				ANSWER
 			</p>
 
-			<button type="button" onclick="document.getElementById('q5').innerHTML = 'Hobby shops in taft or SM Megamall, or in Neutral grounds.'">Click to see answer</button>
+			<button type="button" onclick="document.getElementById('demo5').innerHTML = 'Hobby shops in taft or SM Megamall, or in Neutral grounds.'">Click to see answer</button>
 
 			</center>
 
