@@ -18,7 +18,7 @@
 			color: #89f1fa;
 		}
 
-		#q1, #q2, #q3, #q4, #q5{
+		#demo1, #demo2, #demo3, #demo4, #demo5{
 			color: #ff0000;
 		}
 		
@@ -63,10 +63,10 @@
 			<a href= "https://www.creepypasta.wikia.com"><img border="0" alt="Creepypasta" src="<?php echo base_url('webimgs/creepy.jpg');?>" width=100 height=100></a>
 			</p>
 
-			<h2> Trivia! </h2>
+			<h2> Spill the T! </h2>
 
 			<p>
-				1. My most common gaming username:
+				1. Your name is kinda weird, what does it mean?
 			</p>
 
 			<p id="q1">
