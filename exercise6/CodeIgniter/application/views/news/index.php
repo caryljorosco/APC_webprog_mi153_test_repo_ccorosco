@@ -86,14 +86,14 @@
 			<button type="button" onclick="document.getElementById('demo2').innerHTML = 'I loooove conspiracy theories about the Illuminati and the Mandela Effect. Read about it on your sparetime. :)'">They are out to get you.</button>
 
 			<p>
-				3. How long have I been playing Magic?
+				3. Fave queen from RuPaul's Drag Race?
 			</p>
 
 			<p id="demo3">
 				ANSWER
 			</p>
 
-			<button type="button" onclick="document.getElementById('demo3').innerHTML = 'Started on September 2016'">Click to see answer</button>
+			<button type="button" onclick="document.getElementById('demo3').innerHTML = '*queens. My faves are Bianca Del Rio, Trixie Mattel and Yekaterina Petrovna Zamolochikova!'">U can't just ask who my fave queen is!</button>
 
 			<p>
 				4. What else do you do in your free time?
