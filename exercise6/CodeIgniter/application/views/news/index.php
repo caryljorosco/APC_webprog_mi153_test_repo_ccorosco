@@ -106,7 +106,7 @@
 			<button type="button" onclick="document.getElementById('demo4').innerHTML = ''My favorite is the case of JonBenet Ramsey (which had a 4-hour special at CBS and IT WAS AMAZING!)'">Can u solve it 4 me?</button>
 
 			<p>
-				5. Where do you go to buy magic cards?
+				5. Do you have a favorite band or artist?
 			</p>
 
 			<p id="demo5">
