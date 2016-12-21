@@ -83,7 +83,7 @@
 				ANSWER
 			</p>
 
-			<button type="button" onclick="document.getElementById('demo2').innerHTML = 'Anything that has Math'">Click to see answer</button>
+			<button type="button" onclick="document.getElementById('demo2').innerHTML = 'I loooove conspiracy theories about the Illuminati and the Mandela Effect. Read about it on your sparetime. :)'">Click to see answer</button>
 
 			<p>
 				3. How long have I been playing Magic?
