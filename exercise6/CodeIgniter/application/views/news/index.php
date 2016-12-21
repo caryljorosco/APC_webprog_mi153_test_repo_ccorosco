@@ -113,7 +113,7 @@
 				ANSWER
 			</p>
 
-			<button type="button" onclick="document.getElementById('demo5').innerHTML = 'Hobby shops in taft or SM Megamall, or in Neutral grounds.'">Click to see answer</button>
+			<button type="button" onclick="document.getElementById('demo5').innerHTML = 'My favorite band is Pentatonix! If you're not aware who they are (which you should be because they are such blessings to the ears) here is a link to their website: http://pentatonixthealbum.ptxofficial.com/''">Click to see answer</button>
 
 			</center>
 
