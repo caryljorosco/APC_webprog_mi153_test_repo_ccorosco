@@ -69,17 +69,17 @@
 				1. Your name is kinda weird, what does it mean?
 			</p>
 
-			<p id="q1">
+			<p id="demo1">
 				ANSWER
 			</p>
 
-			<button type="button" onclick="document.getElementById('q1').innerHTML = 'NZAAXD or VoidDoubleA'">Click to see answer</button>
+			<button type="button" onclick="document.getElementById('demo1').innerHTML = 'NZAAXD or VoidDoubleA'">Click to see answer</button>
 
 			<p>
 				2. My favorite subject:
 			</p>
 
-			<p id="q2">
+			<p id="demo2">
 				ANSWER
 			</p>
 
@@ -89,7 +89,7 @@
 				3. How long have I been playing Magic?
 			</p>
 
-			<p id="q3">
+			<p id="demo3">
 				ANSWER
 			</p>
 
@@ -99,7 +99,7 @@
 				4. What else do you do in your free time?
 			</p>
 
-			<p id="q4">
+			<p id="demo4">
 				ANSWER
 			</p>
 
@@ -109,7 +109,7 @@
 				5. Where do you go to buy magic cards?
 			</p>
 
-			<p id="q5">
+			<p id="demo5">
 				ANSWER
 			</p>
 
