@@ -56,10 +56,11 @@
 
 			<p>
 			<br>Favorite websites:
-			<br><a href= "https://www.youtube.com"><img border="0" alt="Youtube" src="<?php echo base_url('Images/youtube.jpg');?>" width=100 height=100></a>
-			<a href= "https://www.9gag.com"><img border="0" alt="9gag" src="<?php echo base_url('Images/9gag.jpg');?>" width=100 height=100></a>
-			<a href= "https://www.youtube.com"><img border="0" alt="YouTube" src="<?php echo base_url('Images/youtube.jpg');?>" width=100 height=100></a>
-			<a href= "https://www.tumblr.com"><img border="0" alt="Tumblr" src="<?php echo base_url('Images/tumblr.jpg');?>" width=100 height=100></a>
+			<br><a href= "https://www.youtube.com"><img border="0" alt="Youtube" src="<?php echo base_url('webimgs/youtube.jpg');?>" width=100 height=100></a>
+			<a href= "https://www.9gag.com"><img border="0" alt="9gag" src="<?php echo base_url('webimgs/9gag.jpg');?>" width=100 height=100></a>
+			<a href= "https://www.youtube.com"><img border="0" alt="YouTube" src="<?php echo base_url('webimgs/youtube.jpg');?>" width=100 height=100></a>
+			<a href= "https://www.tumblr.com"><img border="0" alt="Tumblr" src="<?php echo base_url('webimgs/tumblr.jpg');?>" width=100 height=100></a>
+			<a href= "https://www.creepypasta.wikia.com"><img border="0" alt="Creepypasta" src="<?php echo base_url('webimgs/creepy.jpg');?>" width=100 height=100></a>
 			</p>
 
 			<h2> Trivia! </h2>
