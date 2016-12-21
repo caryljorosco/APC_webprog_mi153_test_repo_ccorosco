@@ -83,7 +83,7 @@
 				ANSWER
 			</p>
 
-			<button type="button" onclick="document.getElementById('q2').innerHTML = 'Anything that has Math'">Click to see answer</button>
+			<button type="button" onclick="document.getElementById('demo2').innerHTML = 'Anything that has Math'">Click to see answer</button>
 
 			<p>
 				3. How long have I been playing Magic?
