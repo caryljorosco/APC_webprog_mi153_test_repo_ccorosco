@@ -96,7 +96,7 @@
 			<button type="button" onclick="document.getElementById('demo3').innerHTML = '*queens. My faves are Bianca Del Rio, Trixie Mattel and Yekaterina Petrovna Zamolochikova!'">U can't just ask who my fave queen is!</button>
 
 			<p>
-				4. What else do you do in your free time?
+				4. What's your favorite unsolved murder case?
 			</p>
 
 			<p id="demo4">
