@@ -58,7 +58,7 @@
 			<br>Favorite websites:
 			<br><a href= "https://www.youtube.com"><img border="0" alt="Youtube" src="<?php echo base_url('Images/youtube.jpg');?>" width=100 height=100></a>
 			<a href= "https://www.9gag.com"><img border="0" alt="9gag" src="<?php echo base_url('Images/9gag.jpg');?>" width=100 height=100></a>
-			<a href= "https://www.twitter.com"><img border="0" alt="Twitter" src="<?php echo base_url('Images/twitter.jpg');?>" width=100 height=100></a>
+			<a href= "https://www.youtube.com"><img border="0" alt="YouTube" src="<?php echo base_url('Images/youtube.jpg');?>" width=100 height=100></a>
 			</p>
 
 			<p>
